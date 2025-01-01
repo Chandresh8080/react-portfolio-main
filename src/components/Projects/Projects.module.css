@@ -1,0 +1,74 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.projects {
+  margin-top: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px; 
+  width: 100%;
+}
+
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  position: relative;
+}
+
+.sliderButton {
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  z-index: 10;  
+}
+
+.sliderButton:hover {
+  background-color: var(--color-primary-dark);}
+
+.sliderButton:focus {
+  outline: none;
+}
+
+
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+  width: 100%;
+}
+
+
+.projectCardWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.projectCardWrapper {
+  flex: 1 1 calc(50% - 20px); 
+}

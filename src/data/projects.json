@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Real-Estate",
+    "imageSrc": "projects/re.png",
+    "description": "– Built a responsive real estate platform for buying, selling, and renting properties.",
+    "skills": ["React.js", "JavaScript", "HTML5", "CSS3"],
+    "demo": "https://jolly-fox-eab14f.netlify.app/",
+    "source": "https://github.com/Chandresh8080/Madhav-travel"
+  },
+  {
+    "title": "Tour and Travel",
+    "imageSrc": "projects/TT.png",
+    "description": "Developed a fully responsive travel website optimized for all devices.",
+    "skills": ["React.js", "JavaScript", "HTML5", "CSS3"],
+    "demo": "https://lucky-mochi-c2ca8a.netlify.app/",
+    "source": "https://github.com/Chandresh8080/Madhav-travel"
+  },
+  {
+    "title": "Role Base Access Control",
+    "imageSrc": "projects/1.png",
+    "description": " Implemented a secure RBAC system in a MERN stack application.",
+    "skills": [" MongoDB", "Express.js"," React", "Node.js", "Mongoose", "REST API"],
+    "source": "https://github.com/Chandresh8080/reactrbac-main"
+  },
+  {
+    "title": "Attendance Management System Using QR",
+    "imageSrc": "projects/AX.png",
+    "description": "  Developed a real-time attendance system integrating web and mobile platforms",
+    "skills": [" HTML", "CSS", "JavaScript", "PHP", "Flask", "Flutter", "MongoDB"],
+    "source": "https://github.com/Chandresh8080/AttendeX"
+  },
+  {
+    "title": " StudyNotion",
+    "imageSrc": "projects/SN.png",
+    "description": "Developed a versatile and intuitive platform designed to enhance the learning experience students and enable instructors to showcase their expertise" ,
+    "skills": ["React.js", "Node.js", "MongoDB", "Express.js"],
+    "source": "https://github.com/Chandresh8080/StudyNotion"
+  }
+]
